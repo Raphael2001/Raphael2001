@@ -31,6 +31,16 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael2001&theme=highcontrast)](https://git.io/streak-stats)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raphael2001&theme=github-compact&hide_border=true&area=true)](https://github.com/Raphael2001)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael2001&theme=github_dark" width="100%"/>
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael2001&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael2001&theme=github_dark" width="48%"/>
+</p>
+
 ---
 
 ### 📫 Contact
