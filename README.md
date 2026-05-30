@@ -1,41 +1,50 @@
-### Hi there 👋
+<h1 align="left">Hey, I'm Raphael 👋</h1>
 
-<!--
-**Raphael2001/Raphael2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<p align="left">
+  Full-stack developer building production products with TypeScript, Next.js, and Python.<br>
+  I focus on clean architecture, real deployments, and shipping things that work.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://komarev.com/ghpvc/?username=Raphael2001&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=Raphael2001&color=brightgreen)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael2001&show_icons=true&theme=dracula)
+---
+
+### 🚀 What I'm working on
+
+- **AI Agent Infrastructure** — custom multi-agent orchestration with LiteLLM, Docker, and GCP
+- **[MegaRV](https://github.com/Raphael2001/MegaRVNext)** — RV marketplace platform · Next.js + TypeScript + GCP Cloud Run
+- **[StudentAttendance](https://github.com/Raphael2001/StudentAttendanceNext)** — attendance system · Next.js CMS + React Native mobile app
+- **[Sleek-Scroll](https://www.npmjs.com/package/sleek-scroll)** — published npm package · lightweight React scrollbar, zero deps, RTL support
+
+---
+
+### 🛠 Stack
+
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael2001&show_icons=true&theme=dracula)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael2001&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael2001&theme=merko&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+### 📫 Contact
 
-</p>
+raphael.aboohi@gmail.com
