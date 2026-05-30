@@ -29,10 +29,7 @@
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael2001&show_icons=true&theme=dracula)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael2001&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael2001&theme=merko&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
