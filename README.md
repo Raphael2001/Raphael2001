@@ -9,15 +9,6 @@
 
 ---
 
-### 🚀 What I'm working on
-
-- **AI Agent Infrastructure** — custom multi-agent orchestration with LiteLLM, Docker, and GCP
-- **[MegaRV](https://github.com/Raphael2001/MegaRVNext)** — RV marketplace platform · Next.js + TypeScript + GCP Cloud Run
-- **[StudentAttendance](https://github.com/Raphael2001/StudentAttendanceNext)** — attendance system · Next.js CMS + React Native mobile app
-- **[Sleek-Scroll](https://www.npmjs.com/package/sleek-scroll)** — published npm package · lightweight React scrollbar, zero deps, RTL support
-
----
-
 ### 🛠 Stack
 
 <p align="left">
